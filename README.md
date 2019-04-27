@@ -10,8 +10,8 @@ There are the games present.
 
 4-
 
-5-
+5- Pong
 
-6-
+6- Memory
 
 7- BlackJack
